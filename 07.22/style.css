@@ -1,0 +1,54 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    font-size: 18px;
+    background-color: rgb(134, 134, 133);
+    justify-content: center;
+    justify-content: flex-start;
+    justify-content: space-around;
+    justify-content: space-between;
+    justify-content: space-evenly;
+    /*
+    align-items: flex-end;
+    align-items: center; */
+    /* flex-direction: row-reverse; */
+/* flex-wrap: wrap; */
+align-content: flex-start;
+align-content: space-around;
+}
+
+.box {
+    width: 150px;
+    height: 150px;
+    background-color: rgb(52, 52, 52);
+    color: rgb(226, 242, 255);
+    /* margin-left: 100px;
+    margin-top: 100px; */
+    border: 8px double rgb(255, 255, 255);
+
+    /* transform: translate(-50%,-50%) rotate(45deg); */
+    /* border-right-width: 4px; */
+    /* border-style: double dotted dashed solid; */
+
+    /* -dotted dashed double outset ridge groove inset */
+    /* border-radius: 100px; */
+    /* -50 px заокруглення */
+
+    /* border-top: 8px solid rgb(69, 69, 181);
+border-right: 8px solid rgb(225, 151, 82);
+border-bottom: 8px solid rgb(58, 116, 58);
+border-bottom-left-radius: 190px;
+border-top-right-radius: 10px; */
+
+
+
+
+
+}
